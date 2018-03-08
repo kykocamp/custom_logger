@@ -6,7 +6,7 @@ Makes it easier to create custom logs in Rails, using just a simple configuratio
 
 Add this line to your Rails application's Gemfile:
 
-    gem 'custom_logger'
+    gem 'custom_logger', github: 'kykocamp/custom_logger'
 
 And then execute:
 
